@@ -1,2 +1,2 @@
 # LangChain_Text_Splitters
-Text splitters in langchain
+Here are some methods of Text splitters in LangChain...
